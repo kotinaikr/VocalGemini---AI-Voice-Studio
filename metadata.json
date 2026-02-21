@@ -1,0 +1,7 @@
+{
+  "name": "VocalGemini - AI Voice Studio",
+  "description": "A high-fidelity text-to-speech studio powered by Gemini 2.5 Flash, offering natural-sounding single and multi-speaker voice synthesis, and experimental voice cloning.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
